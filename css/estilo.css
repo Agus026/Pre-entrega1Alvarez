@@ -2,4 +2,11 @@
  background-color: rgb(133, 49, 49); 
  text-decoration: none;
  text-align: center;
+ list-style: none;
+}
+.texto {
+    background-color: rgba(43, 40, 40, 0.685);
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
 }
